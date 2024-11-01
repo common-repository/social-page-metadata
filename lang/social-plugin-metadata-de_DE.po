@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-08-31 16:09+0200\n"
+"PO-Revision-Date: 2016-08-31 16:34+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: fb-get-pageinfo.php\n"
+
+msgid "Social plugin - Metadata Widget"
+msgstr "Social plugin - Meta Daten Widget"
+
+msgid "Social Plugin - Metadata"
+msgstr "Social Plugin - Meta Daten"
+
+msgid "Used to display Facebook related page meta information as widget or shortcode (E.g. Business hours, About Us, Last Post)"
+msgstr "Wird verwendet um Facebook Seiteninformationen als Widget oder Shortcode anzuzeigen (Z.b. Öffnungszeiten, Über uns, Letzter Beitrag)"
+
+msgid "Used to output several information gathered from a facebook page"
+msgstr "Verwendet eine Facebook Seite um verschiedene informationen davon darzustellen"
+
+msgid "Please use the below Login & Sync button to synchronize the facebook pages"
+msgstr "Bitte verwende die unten dargestellte Schaltfläche um die  Facebook Seiten zu synchronisieren"
+
+msgid "Please register your domain first before using the Facebook App"
+msgstr "Bitte registrieren Sie Ihre Domain bevor Sie die Facebook App verwenden"
+
+msgid "Facebook Page:"
+msgstr "Facebook Seite:"
+
+msgid "Facebook Content:"
+msgstr "Facebook Inhalt:"
+
+msgid "Number of posts:"
+msgstr "Anzahl der Beiträge:"
+
+msgid "Show page name:"
+msgstr "Seitenname anzeigen:"
+
+msgid "Business hours"
+msgstr "Geschäftszeiten"
+
+msgid "About us"
+msgstr "Über Uns"
+
+msgid "Last Posts"
+msgstr "Letzte Beiträge"
+
+msgid "Opening hours"
+msgstr "Öffnungszeiten"
+
+msgid "%i minutes ago"
+msgstr "vor %i Minuten"
+
+msgid "%h hours ago"
+msgstr "vor %h Stunden"
+
+msgid "%d days ago"
+msgstr "vor %d Tagen"
+
+msgid "Show on Facebook"
+msgstr "In Facebook zeigen"
+
+msgid "Show page name"
+msgstr "Seitenname anzeigen"
+
+msgid "Custom message when empty (optional):"
+msgstr "Benutzerdefinierte Meldung bei leerem Inhalt (optional):"
+
+msgid "Currently there are no entries available on Facebook"
+msgstr "Derzeit sind keine Einträge auf Facebook verfügbar"
+
+msgid "Currently there are no posts available on Facebook"
+msgstr "Derzeit sind keine aktuellen Beiträge auf Facebook verfügbar"
+
+msgid "Currently there are no events posted on Facebook"
+msgstr "Derzeit sind keine dieser Veranstaltungen auf Facebook verfügbar"
+
+msgid "Something went wrong. Please choose at least one facebook page after login"
+msgstr "Etwas ist schief gelaufen. Bitte wählen Sie mindestens eine Facebook Seite nach dem einloggen aus"
+
+msgid "Please follow the instruction below to syncronize your facebook pages"
+msgstr "Bitte folgen Sie den nachstehenden Instruktionen um die Facebook Seiten zu synchronisieren"
+
+msgid "Connect with Facebook"
+msgstr "Mit Facebook verbinden"
+
+msgid "Build your own %s and configure the APP ID as well as the APP KEY here"
+msgstr "Erstelle eine eigene %s und konfiguriere die APP ID sowie den APP KEY hier"
+
+msgid "Optionally you can also use shortcodes to displav the related information from Facebook (E.g. Business hours, About Us or the last posts)"
+msgstr "Alternativ können auch Shortcodes verwendet werden um die erforderlichen Informationen aus Facebook darzustellen (z.B. Öffnungszeiten, Über uns oder die letzten Beiträge) "
+
+msgid "Some information has been updated on Facebook"
+msgstr "Einige informationen wurden auf Facebook aktualisiert"
+
+msgid "Facebook page not found or no access"
+msgstr "Facebook Seite nicht gefunden oder kein Zugriff"
+
+msgid "Navigate to Appearance -> Widgets and configure the %s widget as desired"
+msgstr "Navigiere zu Design -> Widgets und konfiguriere das %s Widget wie gewünscht"
